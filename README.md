@@ -29,7 +29,7 @@ Add dependency in your pubspec.yaml
 dependencies:
   flutter_tab_digit:
     git:
-      url: 
+      url: https://github.com/Excelsior-Technologies-Community/flutter_tab_digit/tree/stage 
 ```
 Then run:
 ```
